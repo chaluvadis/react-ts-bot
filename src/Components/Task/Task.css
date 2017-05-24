@@ -1,0 +1,14 @@
+.task-container {
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    padding:10px;
+}
+
+.task-header{
+    border-top: solid 1px black;
+}
+
+.task-content{
+    border-bottom: solid 1px black;
+}
